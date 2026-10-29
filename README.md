@@ -3,7 +3,7 @@ This is the probably one of the first project ur doing so let me help u out a bi
 
 ## Materials:
 1. 1 LED (any colour you like)
-2. 1 Resistor (EXTREMELY IMPORTANT IF U DONT WANNA BURN UR LED)
+2. 1 220 ohm Resistor (EXTREMELY IMPORTANT IF U DONT WANNA BURN UR LED)
 3. 2 jumper cables (to connect ur beautiful circuit)
 4. A breadboard (small or big or whatever, its a small project)
 5. Arduino UNO (or any microcontroller ur comfortable with but the code is for an ARDUINO)
